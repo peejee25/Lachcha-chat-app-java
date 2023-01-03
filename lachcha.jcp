@@ -1,0 +1,36 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "lachcha"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "classes"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "lachcha.LachchaServer" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\UnknownChatMessageException.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\SharedConstants.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\RegistrationForm.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\Message.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\LoginForm.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\LachchaServer.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\LachchaClient.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\Frame1.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\ClientChatFrame.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\ChatUtil.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\Authenticator.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\Application1.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha1\\ChatMainFrame.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha1\\User.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha1\\OnlineClientList.java" #[EndFile]
+#[BeginFile]SOURCE := "D:\\JavaProjects\\lachcha\\src\\lachcha\\ChatProtocol.java" #[EndFile]
+#[EndFolder]
